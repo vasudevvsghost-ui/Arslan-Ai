@@ -3,8 +3,8 @@ const fs = require("fs");
 const crypto = require("crypto");
 
 // 🔐 Anti-Tamper & Clone Protection
-const botName = "Arslan-MD";
-const ownerNumber = "923237045919";
+const botName = "GHOST_MD";
+const ownerNumber = "918301966072";
 const securityHash = "a1b2c3d4e5f6g7h8i9j0"; // Change this to your unique hash
 
 // 🚨 Security Check
@@ -33,19 +33,19 @@ if (__filename.includes('node_modules') === false) {
 // ⚡ ULTRA PRO MAX SETTINGS
 const settings = {
   // 🌟 Branding & Identity
-  botName: "Arslan-Ai",
-  packname: "Arslan-Ai Premium Pack",
-  author: "ArslanMD Official",
-  version: "3.0.0", // Major version upgrade
+  botName: "GHOST_MD",
+  packname: "GHOST_MD",
+  author: "GHOST_MD Official",
+  version: "1.0.0", // Major version upgrade
   
   // 👑 Ownership
-  botOwner: "ArslanMD",
-  ownerNumber: "923237045919",
+  botOwner: "GHOST_MD",
+  ownerNumber: "918301966072",
   coOwners: [], // Add secondary owners if needed
   
   // ⚙️ Operation Modes
-  MODE: "public", // public/private/group-only
-  CommandMode: "public", // Legacy support
+  MODE: "private", // public/private/group-only
+  CommandMode: "private", // Legacy support
   
   // 💎 Premium Features
   autoreact: {
@@ -56,7 +56,7 @@ const settings = {
   
   autoReply: {
     status: true,
-    message: "🤖 Arslan-MD is currently busy. I'll reply soon!"
+    message: "🤖 GHOST-MD is currently busy. I'll reply soon!"
   },
   
   // 🔐 Security
